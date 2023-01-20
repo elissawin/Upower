@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lora&family=Roboto:wght@300;400&display=swap');
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/card.css");
+@import url("components/list-horizontal.css");
+@import url("components/bas.css");
+
+
+body {
+	font-family: 'Lora', sans-serif;
+    font-size: 35x;
+    font-weight: 600px;
+    color: rgb(120, 120, 120)
+    text-align: justify;
+    background: #F1F6F5;
+}
+h1,  {
+	font-size: 40px;
+    font-weight: 550;
+    color: white;
+    justify-content: flex-start;
+    margin-top: 40px;
+}
+h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	text-justify: centre;
+	font-size: 200;
+}
+
+.btn-go {
+    background-color: #89939E;
+    height: auto;
+    MARGIN: auto;
+    margin-top: 10px;
+    width: 280px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    padding: 10px;
+    border-width: 0px;
+    
+}
+
+.btn-blu{
+	background: white;
+	padding: 15px 20px;
+	margin: 7px;
+	width: 160px; 
+	border-width: 0px; 
+	border-radius: 4px;
+	color: #89939E;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.btn-tr {
+    background-color: white;
+    height: auto;
+    MARGIN: auto;
+    margin-top: 10px;
+    width: 820px;
+    border-radius: 7px;
+    color: #89939E ;
+    font-weight: bold;
+    font-size: 32px;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    padding: 10px;
+    border-color: #89939E ;
+    border-width: 0px;
+    box-shadow: 6px;
+}
+
+.titre img{
+    height: 180px;
+    border-radius: 30px;
+    
+
+}

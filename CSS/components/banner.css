@@ -1,0 +1,28 @@
+.banner {
+	background-image: linear-gradient(225deg, rgba(240, 240, 240, 0.2) 0%, rgba(10, 10, 10, 0.4) 30%), url(../../images/semelle.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	height: 450px;
+	margin-top: -25px;
+	display: flex;
+
+}
+.banner .container{
+    display: flex;
+    justify-items: left;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 500px;
+    padding-left: 40px;
+    text-align: justify;
+    margin: auto 40px;
+
+}
+.banner .titre{
+	display: flex;
+    justify-items: right;
+    justify-content: space-between;
+    flex-wrap: wrap;
+	margin: 50px auto;
+}

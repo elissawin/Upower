@@ -1,0 +1,27 @@
+.bas{
+	background: linear-gradient(135deg, white, #89939E);
+	min-height: 100px;
+	display: flex;
+	margin-top: 0;
+	align-items: flex-end;
+    justify-content: space-around;
+	padding-bottom: 1px;
+	flex-wrap: wrap;
+
+}
+
+.bas a{
+	text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    color: #89939E;
+    text-align: right;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+
+}
+
+
+
+
+
